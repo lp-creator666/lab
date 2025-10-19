@@ -37,6 +37,8 @@ int main()
   return 0;
 }
 ```
+<img width="2542" height="514" alt="屏幕截图 2025-10-19 132903" src="https://github.com/user-attachments/assets/682e5b2a-c920-478d-adc0-c7fd785ee161" />
+
 ---
 ## 库，环境变量
 ***
